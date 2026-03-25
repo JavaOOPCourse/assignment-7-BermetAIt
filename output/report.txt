@@ -1,0 +1,12 @@
+Average: 83.0
+Highest: Eve - 95
+
+--- Sorted Students (by score) ---
+Eve, 95
+Bob, 90
+Elya, 88
+Jaina, 87
+Alice, 85
+David, 78
+Elina, 77
+Nazima, 64
